@@ -14,15 +14,15 @@
                         <ul class="list-unstyled">
                             <li class="mb-3">
                                 <i class="fas fa-map-marker-alt text-primary me-2"></i>
-                                <span>123 Main Street, New York, NY 10001</span>
+                                <span>Ashulia,Dhaka</span>
                             </li>
                             <li class="mb-3">
                                 <i class="fas fa-envelope text-primary me-2"></i>
-                                <a href="mailto:john@example.com">john@example.com</a>
+                                <a href="mailto:john@example.com">talhafahimfaisal@gmail.com</a>
                             </li>
                             <li class="mb-3">
                                 <i class="fas fa-phone text-primary me-2"></i>
-                                <a href="tel:+1234567890">(123) 456-7890</a>
+                                <a href="tel:01776199963">01776199963</a>
                             </li>
                         </ul>
                     </div>

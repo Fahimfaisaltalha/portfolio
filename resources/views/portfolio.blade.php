@@ -25,7 +25,7 @@
                 <div class="col-lg-4 col-md-6 portfolio-item" data-category="web">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="{{ asset('assets/images/project1.jpg') }}" class="card-img-top" alt="E-commerce Website">
+                            <img src="{{ asset('assets/images/ecom.png') }}" class="card-img-top" alt="E-commerce Website">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
                                     <h5 class="text-white">E-commerce Website</h5>
@@ -45,7 +45,7 @@
                 <div class="col-lg-4 col-md-6 portfolio-item" data-category="app">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="{{ asset('assets/images/project2.jpg') }}" class="card-img-top" alt="Fitness App">
+                            <img src="{{ asset('assets/images/fit.jpg') }}" class="card-img-top" alt="Fitness App">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
                                     <h5 class="text-white">Fitness Tracking App</h5>
@@ -65,7 +65,7 @@
                 <div class="col-lg-4 col-md-6 portfolio-item" data-category="web">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="{{ asset('assets/images/project3.jpg') }}" class="card-img-top" alt="Corporate Website">
+                            <img src="{{ asset('assets/images/cor.png') }}" class="card-img-top" alt="Corporate Website">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
                                     <h5 class="text-white">Corporate Website</h5>
@@ -85,7 +85,7 @@
                 <div class="col-lg-4 col-md-6 portfolio-item" data-category="graphic">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="{{ asset('assets/images/project1.jpg') }}" class="card-img-top" alt="Brand Identity">
+                            <img src="{{ asset('assets/images/ecom.png') }}" class="card-img-top" alt="Brand Identity">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
                                     <h5 class="text-white">Brand Identity</h5>
@@ -105,7 +105,7 @@
                 <div class="col-lg-4 col-md-6 portfolio-item" data-category="app">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="{{ asset('assets/images/project1.jpg') }}" class="card-img-top" alt="Travel App">
+                            <img src="{{ asset('assets/images/trav.jpg') }}" class="card-img-top" alt="Travel App">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
                                     <h5 class="text-white">Travel Planner App</h5>
@@ -125,7 +125,7 @@
                 <div class="col-lg-4 col-md-6 portfolio-item" data-category="web">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="{{ asset('assets/images/project1.jpg') }}" class="card-img-top" alt="Restaurant Website">
+                            <img src="{{ asset('assets/images/mobile.png') }}" class="card-img-top" alt="Restaurant Website">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
                                     <h5 class="text-white">Restaurant Website</h5>
@@ -154,7 +154,7 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <img src="{{asset('assets/images/project1.jpg')}}" class="img-fluid mb-4" alt="E-commerce Website">
+                    <img src="{{asset('assets/images/ecom.png')}}" class="img-fluid mb-4" alt="E-commerce Website">
                     <p>This project involved creating a fully responsive e-commerce website for a client in the fashion industry. The website features:</p>
                     <ul>
                         <li>Product catalog with filtering options</li>
@@ -182,7 +182,7 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <img src="{{asset('assets/images/project1.jpg')}}" class="img-fluid mb-4" alt="Fitness App">
+                    <img src="{{asset('assets/images/fit.jpg')}}" class="img-fluid mb-4" alt="Fitness App">
                     <p>A cross-platform mobile application designed to help users track their workouts, nutrition, and progress toward fitness goals.</p>
                     <p>Key features include:</p>
                     <ul>
@@ -211,7 +211,7 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <img src="{{asset('assets/images/project1.jpg')}}" class="img-fluid mb-4" alt="Corporate Website">
+                    <img src="{{asset('assets/images/cor.png')}}" class="img-fluid mb-4" alt="Corporate Website">
                     <p>A modern, professional website for a financial services company looking to establish credibility and attract new clients.</p>
                     <p>Project highlights:</p>
                     <ul>
@@ -240,7 +240,7 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <img src="{{asset('assets/images/project1.jpg')}}" class="img-fluid mb-4" alt="Brand Identity">
+                    <img src="{{asset('assets/images/ecom.png')}}" class="img-fluid mb-4" alt="Brand Identity">
                     <p>Complete branding package for a tech startup, including logo design, color palette, typography, and brand guidelines.</p>
                     <p>Deliverables included:</p>
                     <ul>
@@ -269,7 +269,7 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <img src="{{asset('assets/images/project1.jpg')}}" class="img-fluid mb-4" alt="Travel App">
+                    <img src="{{asset('assets/images/trav.jpg')}}" class="img-fluid mb-4" alt="Travel App">
                     <p>Mobile application that helps users plan trips, book accommodations, and discover activities at their destination.</p>
                     <p>Notable features:</p>
                     <ul>
@@ -298,7 +298,7 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <img src="{{asset('assets/images/project1.jpg')}}" class="img-fluid mb-4" alt="Restaurant Website">
+                    <img src="{{asset('assets/images/mobile.png')}}" class="img-fluid mb-4" alt="Restaurant Website">
                     <p>A modern website for a local restaurant showcasing their menu, ambiance, and enabling online reservations.</p>
                     <p>Website features:</p>
                     <ul>

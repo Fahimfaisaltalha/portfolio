@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-5 mb-4 mb-lg-0">
-                    <img src="{{asset('assets/images/avatar.jpg')}}" alt="About Me" class="img-fluid rounded-circle">
+                    <img src="{{asset('assets/images/talha.jpg')}}" alt="About Me" class="img-fluid rounded-circle" style="height: 500px">
                 </div>
                 <div class="col-lg-7">
                     <h2 class="display-5 mb-4">About Me</h2>
@@ -17,20 +17,20 @@
                     <div class="row mt-4">
                         <div class="col-md-6">
                             <ul class="list-unstyled">
-                                <li class="mb-2"><strong>Name:</strong> John Doe</li>
-                                <li class="mb-2"><strong>Email:</strong> john@example.com</li>
-                                <li class="mb-2"><strong>Phone:</strong> (123) 456-7890</li>
+                                <li class="mb-2"><strong>Name:</strong> Fahim Faisal Talha</li>
+                                <li class="mb-2"><strong>Email:</strong> talhafahimfaisal.com</li>
+                                <li class="mb-2"><strong>Phone:</strong> 01776199963</li>
                             </ul>
                         </div>
                         <div class="col-md-6">
                             <ul class="list-unstyled">
                                 <li class="mb-2"><strong>Experience:</strong> 5+ Years</li>
-                                <li class="mb-2"><strong>Location:</strong> New York, USA</li>
+                                <li class="mb-2"><strong>Location:</strong> Dhaka,Bangladesh</li>
                                 <li class="mb-2"><strong>Freelance:</strong> Available</li>
                             </ul>
                         </div>
                     </div>
-                    <a href="contact.html" class="btn btn-primary mt-3">Contact Me</a>
+                    <a href="{{url('contact') }}" class="btn btn-primary mt-3">Contact Me</a>
                 </div>
             </div>
         </div>

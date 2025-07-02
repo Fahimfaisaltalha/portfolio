@@ -13,7 +13,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container">
             <a class="navbar-brand" href="{{url('/') }}">
-                <img src="{{asset('assets/images/logo.png')}}" alt="Logo" height="30">
+                <img src="{{asset('assets/images/logo.png')}}" alt="Logo" height="50">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
